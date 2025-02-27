@@ -29,5 +29,5 @@ setup(
         'Programming Language :: Python :: 3',
         'Operating System :: OS Independent',
     ],
-    python_requires='>=3.12',  # Version minimale de Python requise
+    python_requires='>=3.9',  # Version minimale de Python requise
 )
